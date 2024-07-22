@@ -1,2 +1,1 @@
-<H2>Hello</H2>
-<p>I'm Sacintha Lakshan</p>
+<h2>I'm Sachintha Lakshan</h2>
