@@ -1,12 +1,26 @@
-<h2>I'm Sachintha Lakshan</h2>
-<p>A Front-End Web Developer from Sri Lanka</p>
-<table>
-  <tr>
-    <th>Work</th>
-    <th>Learn</th>
-  </tr>
-  <tr>
-    <td>I am working</td>
-    <td>huvbrefu</td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Sachintha Lakshan</h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachicodex&label=Profile%20views&color=0e75b6&style=flat" alt="sachicodex" /> </p>
+
+<p align="left"> <a href="https://twitter.com/hello_sachintha" target="blank"><img src="https://img.shields.io/twitter/follow/hello_sachintha?logo=twitter&style=for-the-badge" alt="hello_sachintha" /></a> </p>
+
+- 🔭 I’m currently working on [YouTube](www.youtube.com/@SmartGuraMusic)
+
+- 🌱 I’m currently learning **Java, Kotlin, PHP**
+
+- 👨‍💻 All of my projects are available at [https://sachicodex.github.io/](https://sachicodex.github.io/)
+
+- 📫 How to reach me **hello.sachinthalakshan@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hello_sachintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hello_sachintha" height="30" width="40" /></a>
+<a href="https://fb.com/hello.sachinthalakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hello.sachinthalakshan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/smartguramusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smartguramusic" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachicodex&show_icons=true&locale=en" alt="sachicodex" /></p>
