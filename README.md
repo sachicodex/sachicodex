@@ -1,2 +1,2 @@
-<H2>Hello</H2><br>
-<p>I'm Sacintha Lakshan</p>
+<H2>Hello</H2>
+<p font-color="red">I'm Sacintha Lakshan</p>
