@@ -23,8 +23,7 @@
 
 ---
 
-### 📞 Contact Me  
-- **Email**: [sachinthalakshan@gmail.com](hello.sachinthalakshan@gmail.com)  
+### 📞 Contact Me    
 - **WhatsApp**: [Sachintha Lakshan]()  
 - **Facebook**: [Sachintha Lakshan](https://www.facebook.com/share/ToajmfrU66nhFwKs/?mibextid=qi2Omg)  
 
