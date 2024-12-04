@@ -18,7 +18,7 @@
 2. **Local Music App** *(In Progress)*  
    - Features: Offline playback, auto-scanning tracks, and responsive UI.  
 
-3. **Flutter Apps**  
+3. **Expense Manager** *(Released)*  
    - Developing user-friendly and responsive apps with advanced functionalities.
 
 ---
