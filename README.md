@@ -1,5 +1,5 @@
 <h1 align="center">Sachintha Lakshan</h1>
-<h3 align="center", margin="-100">Full Stack Software Developer</h3>
+<h3 align="center">Full Stack Software Developer</h3>
 
 ---
 
