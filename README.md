@@ -11,13 +11,6 @@
 
 ---
 
-### 🎥 About My YouTube Channel  
-- **Name**: **Code x Beats**  
-- **Type**: Music Channel  
-- **Content**: Relaxing and creative music mixes  
-
----
-
 ### 🌟 Projects  
 1. **Rainmeter Skin**  
    - Created a customizable search bar.  
