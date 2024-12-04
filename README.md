@@ -26,7 +26,7 @@
 ### 📞 Contact Me  
 - **Email**: [sachinthalakshan@gmail.com](hello.sachinthalakshan@gmail.com)  
 - **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Facebook**: [Sachintha Lakshan](#)  
+- **Facebook**: [Sachintha Lakshan](https://www.facebook.com/share/ToajmfrU66nhFwKs/?mibextid=qi2Omg)  
 
 ---
 
