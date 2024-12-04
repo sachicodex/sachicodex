@@ -12,7 +12,7 @@
 ---
 
 ### 🌟 Projects  
-1. **Weather App **(In Progress)*
+1. **Weather Checker** *(In Progress)*  
    - Created a customizable search bar.  
 
 2. **Local Music App** *(In Progress)*  
