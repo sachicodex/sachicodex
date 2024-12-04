@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Sachintha Lakshan</h1>
-<h3 align="center">Web And Full Stack Software Developer</h3>
+<h3 align="center">Full Stack Software Developer</h3>
 
 ---
 
