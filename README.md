@@ -12,7 +12,7 @@
 ---
 
 ### 🌟 Projects  
-1. **Rainmeter Skin**  
+1. **Weather App **(In Progress)*
    - Created a customizable search bar.  
 
 2. **Local Music App** *(In Progress)*  
