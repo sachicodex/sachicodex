@@ -24,7 +24,7 @@
 ---
 
 ### 📞 Contact Me  
-- **Email**: [hello.sachinthalakshan@gmail.com](#)  
+- **Email**: [sachinthalakshan@gmail.com](hello.sachinthalakshan@gmail.com)  
 - **LinkedIn**: [Your LinkedIn Profile](#)  
 - **YouTube**: [Code x Beats](#)  
 
