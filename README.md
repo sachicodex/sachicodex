@@ -24,8 +24,8 @@
 ---
 
 ### 📞 Contact Me    
-- **WhatsApp**: [Sachintha Lakshan]()  
-- **Facebook**: [Sachintha Lakshan](https://www.facebook.com/share/ToajmfrU66nhFwKs/?mibextid=qi2Omg)  
+- **WhatsApp**: [Sachintha Lakshan](https://sync.short.gy/whatsapp)  
+- **Facebook**: [Sachintha Lakshan](https://sync.short.gy/facebook)  
 
 ---
 
