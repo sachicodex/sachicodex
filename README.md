@@ -1,7 +1,4 @@
 <h1 align="center" style="margin-bottom: 0;">Sachintha Lakshan</h1>
-<h3 align="center" style="margin-top: -105px;">Full Stack Software Developer</h3>
-
----
 
 <p align="center">
   <a href="https://git.io/streak-stats">
