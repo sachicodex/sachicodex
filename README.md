@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Hi 👋 I am</strong> <br>
-  <span style="font-size: 32px;">🚀 Sachintha Lakshan</span>
+  <span style="font-size: 110;">🚀 Sachintha Lakshan</span>
 </p>
 
 <p align="center">
