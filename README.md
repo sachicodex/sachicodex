@@ -42,13 +42,13 @@
 
 ## 📞 Connect with Me  
 
-🌐 **Portfolio**: [Coming Soon]  
+🌐 **Portfolio**: <a href="https://yourportfolio.com" style="color:#ff6600;">Visit Here</a>  
 
-📩 **Email**: [Your Email]  
+📩 **Email**: <a href="mailto:your@email.com" style="color:#00ccff;">Send Email</a>  
 
-📱 **WhatsApp**: [Sachintha Lakshan](https://sync.short.gy/whatsapp)  
+📱 **WhatsApp**: <a href="https://sync.short.gy/whatsapp" style="color:#28a745;">Chat Now</a>  
 
-📘 **Facebook**: [Sachintha Lakshan](https://sync.short.gy/facebook)  
+📘 **Facebook**: <a href="https://sync.short.gy/facebook" style="color:#1877f2;">Follow Me</a>  
 
 ---
 
