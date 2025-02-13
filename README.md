@@ -1,9 +1,8 @@
-  <h1 align="center">Hi 👋 I am <br> Sachintha Lakshan - Sri Lanka </h1>
+<h1 align="center">Hi 👋, I'm Sachintha Lakshan</h1>  
+<h3 align="center">🌍 Sri Lanka | Web Developer | Content Creator</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sachicodex&theme=highcontrast&card_width=550" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=sachicodex&theme=highcontrast&card_width=550" alt="GitHub Streak" />
 </p>
 
 ---
