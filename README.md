@@ -25,21 +25,23 @@
 ---
 
 ## 🌟 Featured Projects  
->
-> ### 🔹 Weather Checker *(In Progress)*  
-> ✅ Built a **customizable search bar** for real-time weather updates.  
->
->
-> ### 🔹 Local Music App *(In Designing)*  
-> ✅ Features:  
+
+### 🔹 Weather Checker *(In Progress)*  
+✅ Features:  
+>  Built a **customizable search bar** for real-time weather updates.
+
+
+### 🔹 Local Music App *(In Designing)*  
+✅ Features:  
 > - **Offline playback** 🎵  
 > - **Auto-scanning tracks** 🔍  
 > - **Responsive UI** 📱  
->
->
-> ### 🔹 Expense Manager *(In Progress)*  
-> ✅ **User-friendly** & **responsive** app with advanced finance tracking features.  
-> 
+
+
+### 🔹 Expense Manager *(In Progress)*  
+✅ Features:  
+>  **User-friendly** & **responsive** app with advanced finance tracking features.  
+
 ---
 
 ## 📞 Connect with Me  
