@@ -1,5 +1,7 @@
-# __Hi 👋, I'm Sachintha Lakshan__ 
-## Sri Lanka | Web Developer | Content Creator
+<p align="center">
+  # __Hi 👋, I'm Sachintha Lakshan__ 
+  ## Sri Lanka | Web Developer | Content Creator
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sachicodex&theme=highcontrast&card_width=550" alt="GitHub Streak" />
@@ -23,13 +25,15 @@
 >
 > ### 🔹 Weather Checker *(In Progress)*  
 > ✅ Built a **customizable search bar** for real-time weather updates.  
-> 
+>
+>
 > ### 🔹 Local Music App *(In Designing)*  
 > ✅ Features:  
 > - **Offline playback** 🎵  
 > - **Auto-scanning tracks** 🔍  
 > - **Responsive UI** 📱  
-> 
+>
+>
 > ### 🔹 Expense Manager *(In Progress)*  
 > ✅ **User-friendly** & **responsive** app with advanced finance tracking features.  
 > 
