@@ -5,7 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sachicodex&theme=highcontrast&card_width=550" alt="GitHub Streak" />
+  <a href='https://sachicodex.github.io'>
+    <img src="https://streak-stats.demolab.com?user=sachicodex&theme=highcontrast&card_width=550" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
