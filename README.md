@@ -42,13 +42,13 @@
 
 ## 📞 Connect with Me  
 
-🌐 **Portfolio**: <a href="https://yourportfolio.com" style="color:#ff6600;">Visit Here</a>  
+🌐 **Portfolio**: 🔴 [Visit Here](https://yourportfolio.com)  
 
-📩 **Email**: <a href="mailto:your@email.com" style="color:#00ccff;">Send Email</a>  
+📩 **Email**: 🔴 [Send Email](mailto:your@email.com)  
 
-📱 **WhatsApp**: <a href="https://sync.short.gy/whatsapp" style="color:#28a745;">Chat Now</a>  
+📱 **WhatsApp**: 🔴 [Chat Now](https://sync.short.gy/whatsapp)  
 
-📘 **Facebook**: <a href="https://sync.short.gy/facebook" style="color:#1877f2;">Follow Me</a>  
+📘 **Facebook**: 🔴 [Follow Me](https://sync.short.gy/facebook)  
 
 ---
 
