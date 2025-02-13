@@ -30,3 +30,5 @@
 ---
 
 <h4 align="center">"Innovation is the key to success, and I love building creative digital solutions."</h4>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sachintha%20Lakshan&theme=highcontrast" alt="GitHub Streak" /></a>
