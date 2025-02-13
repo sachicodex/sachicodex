@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋 I am <br> Sachintha Lakshan [ DEVELOPER ]</h1>
+  <h1 align="center">Hi 👋 I am <br> Sachintha Lakshan from Sri Lanka</h1>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
