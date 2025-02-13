@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-bottom: 0;">🚀 Sachintha Lakshan</h1>
+<h1 align="center" style="margin-bottom: 0;">🚀 Sachintha \n Lakshan</h1>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
