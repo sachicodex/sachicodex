@@ -4,7 +4,7 @@
 ---
 
 <center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sachintha%20Lakshan&theme=transparent&hide_border=true&card_width=2000&card_height=701" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sachintha%20Lakshan&theme=transparent&hide_border=true&card_width=100vw&card_height=100vh" alt="GitHub Streak" /></a>
 </center>
 
 ---
