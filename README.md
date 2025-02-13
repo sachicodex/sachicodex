@@ -25,13 +25,17 @@
 ### 🔹 Weather Checker *(In Progress)*  
 ✅ Built a **customizable search bar** for real-time weather updates.  
 
-### 🔹 Local Music App *(In Progress)*  
+<br>
+
+### 🔹 Local Music App *(In Designing)*  
 ✅ Features:  
 - **Offline playback** 🎵  
 - **Auto-scanning tracks** 🔍  
 - **Responsive UI** 📱  
 
-### 🔹 Expense Manager *(Released)*  
+<br>
+
+### 🔹 Expense Manager *(In Progress)*  
 ✅ **User-friendly** & **responsive** app with advanced finance tracking features.  
 
 ---
