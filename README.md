@@ -1,5 +1,4 @@
-<h3 align="center">Hi 👋 I am</h3>
-<h1 align="center">Sachinthan Lakshan</h1>
+<h1 align="center"> <h3 align="center">Hi 👋 I am</h3> Sachinthan Lakshan</h1>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
