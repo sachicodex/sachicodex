@@ -1,6 +1,5 @@
 <p align="center">
-  <strong>Hi 👋 I am</strong> <br>
-  <span> <h1 align="center"> Sachintha Lakshan </h1> </span>
+  <h1>Hi 👋 I am <br> Sachintha Lakshan </h1>
 </p>
 
 <p align="center">
