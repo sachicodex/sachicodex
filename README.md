@@ -1,6 +1,7 @@
 <div align="center">
-
-<h1> Hi 👋, I'm Sachintha Lakshan <br> <span> <h5> Sri Lanka | Web Developer | Content Creator </h5> </span> </h1>
+  
+<h1> Hi 👋, I'm Sachintha Lakshan </h1>
+<h3> Sri Lanka | Web Developer | Content Creator </h3>
 
 </div>
 
@@ -49,9 +50,9 @@
 
 ## 📞 Connect with Me  
 
-🌐 **Portfolio**: [Visit Here](https://yourportfolio.com)  
+🌐 **Portfolio**: [Visit Here](https://sachicodex.github.io/)  
 
-📩 **Email**: [Send Email](mailto:your@email.com)  
+📩 **Email**: [Send Email](hello.sachinthalakshan@gmail.com)  
 
 📱 **WhatsApp**: [Chat Now](https://sync.short.gy/whatsapp)  
 
