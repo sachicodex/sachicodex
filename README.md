@@ -1,6 +1,14 @@
 # 👋 Sachintha Lakshan
 
-### 🚀 Flutter Developer | Web Developer | UI/UX Designer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=twinkling" alt="Header Animation" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer;Building+clean%2C+fast%2C+user-focused+products" alt="Typing Animation" />
+  </a>
+</p>
 
 Building clean, high-performance, and user-focused digital products.
 
@@ -40,7 +48,7 @@ I am a developer and designer based in Sri Lanka with hands-on experience in bui
 
 # 🚀 Featured Projects
 
-## 🔹 Agenix — AI-Powered Smart Calendar App
+## 🔹 Agenix - AI-Powered Smart Calendar App
 
 An intelligent event management application integrated with Google Calendar.
 
@@ -51,7 +59,7 @@ An intelligent event management application integrated with Google Calendar.
 
 ---
 
-## 🔹 NUVEX Event — Modern Event Creation Platform
+## 🔹 NUVEX Event - Modern Event Creation Platform
 
 A clean and powerful platform designed for streamlined event creation and management.
 
@@ -62,7 +70,7 @@ A clean and powerful platform designed for streamlined event creation and manage
 
 ---
 
-## 🔹 Tably — Windows New Tab Extension
+## 🔹 Tably - Windows New Tab Extension
 
 A modern and customizable new tab extension designed to enhance productivity on Windows browsers.
 
@@ -86,7 +94,14 @@ A minimal, performance-focused developer portfolio built with clean design princ
 
 ## 📊 GitHub Activity
 
-Consistently building and improving projects with a focus on clean code, performance optimization, and scalable architecture.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sachicodex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sachicodex&hide_border=true&background=00000000&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachicodex&bg_color=00000000&color=c9d1d9&line=00C2FF&point=00C2FF&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
