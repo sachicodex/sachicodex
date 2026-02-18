@@ -1,8 +1,8 @@
  <div align="center">
 
-<h1>SACHINTHA LAKSHAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand" /></h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Right icon" /> SACHINTHA LAKSHAN <img src="https://raw.githubusercontent.com/sachicodex/Agenix/refs/heads/main/assets/img/verify.png" width="24" alt="Waving hand" /></h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1200&color=F97015&center=true&vCenter=true&width=900&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer;" alt="Typing SVG" width='60%'/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1200&color=F97015&center=true&vCenter=true&width=900&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer;" alt="Typing SVG" width='70%'/><br>
 
 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -31,14 +31,14 @@ I am a developer and designer based in Sri Lanka with hands-on experience in bui
 ## 🧠 Core Skills
 
 ### Development
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)  
+- **Frontend:** HTML5, CSS3, JavaScript, Node.js  
 - **Backend:** PHP, Python  
 - **Mobile:** Flutter, Dart  
 - **Frameworks & Libraries:** Flutter SDK, Dart Packages  
 
 ### Design
-- **UI/UX Tools:** Figma, Adobe Illustrator, Photoshop  
-- **Editing:** CapCut  
+- **UI/UX Tools:** Figma, Affinity, Photoshop  
+- **Editing:** DaVinci Resolve
 
 ### Tools & Workflow
 - VS Code, Git, GitHub, Android Studio  
@@ -86,7 +86,7 @@ A clean and powerful platform designed for streamlined event creation and manage
 
 </div>
 
-A modern and customizable new tab extension designed to enhance productivity on Windows browsers.
+A modern and customizable new tab extension designed to enhance productivity on web browsers.
 
 - ⚡ Lightweight with ultra-fast startup  
 - 🧩 Custom widgets (clock, notes, quick links)  
@@ -110,28 +110,11 @@ A minimal, performance-focused developer portfolio built with clean design princ
 
 ---
 
-## 📊 GitHub Activity
+<div align='center'><h2>Development Metrics</h2></div>
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=sachicodex&hide_border=true&background=0D1117&ring=F97015&fire=F97015&currStreakLabel=F97015&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </p>
-
----
-
-## 🌍 Connect With Me
-
-<div align="left">
-
-| Platform | Link |
-|----------|------|
-| 🌐 **Portfolio** | [sachicodex.github.io](https://sachicodex.github.io/) |
-| 📧 **Email** | [hello.sachinthalakshan@gmail.com](mailto:hello.sachinthalakshan@gmail.com) |
-| 💬 **WhatsApp** | [Connect on WhatsApp](https://sync.short.gy/whatsapp) |
-| 📘 **Facebook** | [Follow on Facebook](https://sync.short.gy/facebook) |
-| 🐙 **GitHub** | [@sachicodex](https://github.com/sachicodex) |
-| 💼 **LinkedIn** | [Connect on LinkedIn](https://linkedin.com/in/sachicodex) |
-
-</div>
 
 ---
 
