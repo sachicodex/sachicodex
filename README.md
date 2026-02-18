@@ -1,63 +1,104 @@
-<div align="center">
-  
-<h1> Hi 👋, I'm Sachintha Lakshan </h1>
-<h3> Sri Lanka | Web Developer | Content Creator </h3>
+# 👋 Sachintha Lakshan
 
-</div>
+### 🚀 Flutter Developer | Web Developer | UI/UX Designer
 
-<p align="center">
-  <a href='https://sachicodex.github.io'>
-    <img src="https://streak-stats.demolab.com?user=sachicodex&theme=highcontrast&card_width=550" alt="GitHub Streak" />
-  </a>
-</p>
+Building clean, high-performance, and user-focused digital products.
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 👨‍💻 About Me
 
-💻 **Web Development**: HTML, CSS, JavaScript, PHP  
+I am a developer and designer based in Sri Lanka with hands-on experience in building modern web and mobile applications. I focus on performance, clean architecture, and intuitive user experiences.
 
-⚡ **Frameworks**: Flutter, Dart  
-
-🎨 **Design & Editing**: Photoshop, Adobe Illustrator, CapCut  
-
-🛠 **Tools**: VS Code, Git, GitHub  
-
----
-
-## 🌟 Featured Projects  
-
-### 🔹 Weather Checker *(In Progress)*  
-✅ Features:  
- - **Offline playback** 🎵  
- - **Auto-scanning tracks** 🔍  
- - **Responsive UI** 📱  
-
-
-### 🔹 Local Music App *(In Designing)*  
-✅ Features:  
- - **Offline playback** 🎵  
- - **Auto-scanning tracks** 🔍  
- - **Responsive UI** 📱  
-
-### 🔹 Expense Manager *(In Progress)*  
-✅ Features:  
- - **Offline playback** 🎵  
- - **Auto-scanning tracks** 🔍  
- - **Responsive UI** 📱  
+- 🇱🇰 Based in Sri Lanka  
+- 💼 Experience in Web & Mobile Application Development  
+- 🎯 Strong focus on performance, clean UI, and modern UX  
+- 🧠 Continuously learning and building real-world products  
+- 🔥 Currently working on productivity and AI-powered applications  
 
 ---
 
-## 📞 Connect with Me  
+## 🧠 Core Skills
 
-🌐 **Portfolio**: [Visit Here](https://sachicodex.github.io/)  
+### Development
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)  
+- **Backend:** PHP, Python  
+- **Mobile:** Flutter, Dart  
+- **Frameworks & Libraries:** Flutter SDK, Dart Packages  
 
-📩 **Email**: [Send Email](hello.sachinthalakshan@gmail.com)  
+### Design
+- **UI/UX Tools:** Figma, Adobe Illustrator, Photoshop  
+- **Editing:** CapCut  
 
-📱 **WhatsApp**: [Chat Now](https://sync.short.gy/whatsapp)  
+### Tools & Workflow
+- VS Code, Git, GitHub, Android Studio  
+- Agile workflow, debugging, version control, CI/CD  
 
-📘 **Facebook**: [Follow Me](https://sync.short.gy/facebook)  
+*This hierarchy groups languages, frameworks, and tools so they are easy to scan.*
 
 ---
 
-<h4 align="center">🚀 "Innovation is the key to success, and I love building creative digital solutions." 🚀</h4>
+# 🚀 Featured Projects
+
+## 🔹 Agenix — AI-Powered Smart Calendar App
+
+An intelligent event management application integrated with Google Calendar.
+
+- ⚡ Fast AI-powered event generation  
+- 🔔 Smart local notification system  
+- 📅 Two-way Google Calendar synchronization  
+- 🖥 Cross-platform support (Windows & Android)  
+
+---
+
+## 🔹 NUVEX Event — Modern Event Creation Platform
+
+A clean and powerful platform designed for streamlined event creation and management.
+
+- 🧠 Smart event parsing and optimization  
+- 🎯 Minimal, distraction-free interface  
+- 🔄 Real-time event updates  
+- 🔐 Secure local and cloud data handling  
+
+---
+
+## 🔹 Tably — Windows New Tab Extension
+
+A modern and customizable new tab extension designed to enhance productivity on Windows browsers.
+
+- ⚡ Lightweight with ultra-fast startup  
+- 🧩 Custom widgets (clock, notes, quick links)  
+- 🌑 Clean, minimal dark interface  
+- 🎯 Productivity-focused layout  
+- 🔧 Fully customizable tab experience  
+
+---
+
+## 🔹 Personal Portfolio Website
+
+A minimal, performance-focused developer portfolio built with clean design principles.
+
+- ⚡ Optimized loading performance  
+- 📱 Fully responsive layout  
+- 🎨 Consistent personal branding (Sachicodex)  
+
+---
+
+## 📊 GitHub Activity
+
+Consistently building and improving projects with a focus on clean code, performance optimization, and scalable architecture.
+
+---
+
+## 🌍 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | [Visit Here](https://sachicodex.github.io/) |
+| 📩 Email | [Send Email](mailto:hello.sachinthalakshan@gmail.com) |
+| 💬 WhatsApp | [Chat Now](https://sync.short.gy/whatsapp) |
+| 📘 Facebook | [Follow Me](https://sync.short.gy/facebook) |
+
+---
+
+### ✨ Design Clean. Build Fast. Ship Smart.
