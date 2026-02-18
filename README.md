@@ -1,14 +1,8 @@
-# 👋 Sachintha Lakshan
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand" /> Sachintha Lakshan
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=twinkling" alt="Header Animation" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer;Building+clean%2C+fast%2C+user-focused+products" alt="Typing Animation" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1200&color=00C2FF&center=false&vCenter=true&width=720&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer" alt="Typing Animation" />
+</a>
 
 Building clean, high-performance, and user-focused digital products.
 
