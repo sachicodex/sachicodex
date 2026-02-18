@@ -1,14 +1,14 @@
 # **Sachintha Lakshan** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand" /> 
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1200&color=F97015&center=false&vCenter=true&width=720&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer" alt="Typing Animation" width='60%'/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1200&color=F97015&center=false&vCenter=true&width=720&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer" alt="Typing Animation" width='60%'/>
 
-Building clean, high-performance, and user-focused digital products.
+#### Building clean, high-performance, and user-focused digital products.
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a developer and designer based in Sri Lanka with hands-on experience in building modern web and mobile applications. I focus on performance, clean architecture, and intuitive user experiences.
+#### I am a developer and designer based in Sri Lanka with hands-on experience in building modern web and mobile applications. I focus on performance, clean architecture, and intuitive user experiences.
 
 - 🇱🇰 Based in Sri Lanka  
 - 💼 Experience in Web & Mobile Application Development  
@@ -34,7 +34,7 @@ I am a developer and designer based in Sri Lanka with hands-on experience in bui
 - VS Code, Git, GitHub, Android Studio  
 - Agile workflow, debugging, version control, CI/CD  
 
-*This hierarchy groups languages, frameworks, and tools so they are easy to scan.*
+#### This hierarchy groups languages, frameworks, and tools so they are easy to scan.
 
 ---
 
@@ -42,7 +42,7 @@ I am a developer and designer based in Sri Lanka with hands-on experience in bui
 
 ## 🔹 Agenix - AI-Powered Smart Calendar App
 
-An intelligent event management application integrated with Google Calendar.
+#### An intelligent event management application integrated with Google Calendar.
 
 - ⚡ Fast AI-powered event generation  
 - 🔔 Smart local notification system  
@@ -53,7 +53,7 @@ An intelligent event management application integrated with Google Calendar.
 
 ## 🔹 NUVEX Event - Modern Event Creation Platform
 
-A clean and powerful platform designed for streamlined event creation and management.
+#### A clean and powerful platform designed for streamlined event creation and management.
 
 - 🧠 Smart event parsing and optimization  
 - 🎯 Minimal, distraction-free interface  
@@ -64,7 +64,7 @@ A clean and powerful platform designed for streamlined event creation and manage
 
 ## 🔹 Tably - Windows New Tab Extension
 
-A modern and customizable new tab extension designed to enhance productivity on Windows browsers.
+#### A modern and customizable new tab extension designed to enhance productivity on Windows browsers.
 
 - ⚡ Lightweight with ultra-fast startup  
 - 🧩 Custom widgets (clock, notes, quick links)  
@@ -76,7 +76,7 @@ A modern and customizable new tab extension designed to enhance productivity on 
 
 ## 🔹 Personal Portfolio Website
 
-A minimal, performance-focused developer portfolio built with clean design principles.
+#### A minimal, performance-focused developer portfolio built with clean design principles.
 
 - ⚡ Optimized loading performance  
 - 📱 Fully responsive layout  
@@ -120,4 +120,3 @@ A minimal, performance-focused developer portfolio built with clean design princ
 ---
 
 ### ✨ Design Clean. Build Fast. Ship Smart.
-
