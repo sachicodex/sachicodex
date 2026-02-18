@@ -1,8 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand" /> Sachintha Lakshan
+# **Sachintha Lakshan** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand" /> 
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1200&color=00C2FF&center=false&vCenter=true&width=720&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer" alt="Typing Animation" />
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1200&color=F97015&center=false&vCenter=true&width=720&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer" alt="Typing Animation" width='60%'/>
 
 Building clean, high-performance, and user-focused digital products.
 
@@ -89,25 +87,37 @@ A minimal, performance-focused developer portfolio built with clean design princ
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sachicodex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sachicodex&hide_border=true&background=00000000&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachicodex&bg_color=00000000&color=c9d1d9&line=00C2FF&point=00C2FF&area=true&hide_border=true" alt="Activity Graph" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sachicodex&hide_border=true&background=0D1117&ring=F97015&fire=F97015&currStreakLabel=F97015&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌍 Connect With Me
 
-| Platform | Link |
-|----------|------|
-| 🌐 Portfolio | [Visit Here](https://sachicodex.github.io/) |
-| 📩 Email | [Send Email](mailto:hello.sachinthalakshan@gmail.com) |
-| 💬 WhatsApp | [Chat Now](https://sync.short.gy/whatsapp) |
-| 📘 Facebook | [Follow Me](https://sync.short.gy/facebook) |
+<table width="100%">
+  <tr>
+    <th align="left">Platform</th>
+    <th align="left">Link</th>
+  </tr>
+  <tr>
+    <td>🌐 Portfolio</td>
+    <td>https://sachicodex.github.io/</td>
+  </tr>
+  <tr>
+    <td>📩 Email</td>
+    <td>hello.sachinthalakshan@gmail.com</td>
+  </tr>
+  <tr>
+    <td>💬 WhatsApp</td>
+    <td>https://sync.short.gy/whatsapp</td>
+  </tr>
+  <tr>
+    <td>📘 Facebook</td>
+    <td>https://sync.short.gy/facebook</td>
+  </tr>
+</table>
 
 ---
 
 ### ✨ Design Clean. Build Fast. Ship Smart.
+
