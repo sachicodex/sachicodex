@@ -2,7 +2,7 @@
 
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Right icon" /> SACHINTHA LAKSHAN <img src="https://raw.githubusercontent.com/sachicodex/Agenix/refs/heads/main/assets/img/verify.png" width="24" alt="Waving hand" /></h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1200&color=F97015&center=true&vCenter=true&width=900&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer;" alt="Typing SVG" width='70%'/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1200&color=F97015&center=true&vCenter=true&width=900&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer;" alt="Typing SVG" width='80%'/><br>
 
 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -20,7 +20,6 @@
 
 I am a developer and designer based in Sri Lanka with hands-on experience in building modern web and mobile applications. I focus on performance, clean architecture, and intuitive user experience.
 
-- 🇱🇰 Based in Sri Lanka  
 - 💼 Experience in Web & Mobile Application Development  
 - 🎯 Strong focus on performance, clean UI, and modern UX  
 - 🧠 Continuously learning and building real-world products  
@@ -43,8 +42,6 @@ I am a developer and designer based in Sri Lanka with hands-on experience in bui
 ### Tools & Workflow
 - VS Code, Git, GitHub, Android Studio  
 - Agile workflow, debugging, version control, CI/CD  
-
-#### This hierarchy groups languages, frameworks, and tools so they are easy to scan.
 
 ---
 
@@ -73,9 +70,9 @@ An intelligent event management application integrated with Google Calendar.
 
 A clean and powerful platform designed for streamlined event creation and management.
 
-- 🧠 Smart event parsing and optimization  
-- 🎯 Minimal, distraction-free interface  
-- 🔄 Real-time event updates  
+- 🔔 Intelligent Reminder System in Windows
+- 🎯 Minimal, distraction-free interface
+- 🌙 Dark-Mode Optimized UI
 - 🔐 Secure local and cloud data handling  
 
 ---
@@ -90,7 +87,7 @@ A modern and customizable new tab extension designed to enhance productivity on 
 
 - ⚡ Lightweight with ultra-fast startup  
 - 🧩 Custom widgets (clock, notes, quick links)  
-- 🌑 Clean, minimal dark interface  
+- 🌑 Clean, minimal user interface  
 - 🎯 Productivity-focused layout  
 - 🔧 Fully customizable tab experience  
 
@@ -106,7 +103,7 @@ A minimal, performance-focused developer portfolio built with clean design princ
 
 - ⚡ Optimized loading performance  
 - 📱 Fully responsive layout  
-- 🎨 Consistent personal branding (Sachicodex)  
+- 🎨 Consistent personal branding
 
 ---
 
