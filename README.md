@@ -33,7 +33,7 @@ I am a developer and designer based in Sri Lanka with hands-on experience in bui
 - **Frontend:** HTML5, CSS3, JavaScript, Node.js  
 - **Backend:** PHP, Python  
 - **Mobile:** Flutter, Dart  
-- **Frameworks & Libraries:** Flutter SDK, Dart Packages  
+- **Frameworks & Libraries:** Flutter SDK, Dart Packages, Bootstrap
 
 ### Design
 - **UI/UX Tools:** Figma, Affinity, Photoshop  
