@@ -79,7 +79,7 @@ A clean and powerful platform designed for streamlined event creation and manage
 
 <div align="left">
 
-## 🔹 **[Tably - Windows New Tab Extension](https://github.com/sachicodex/tably)**
+## 🔹 **[Tably - Browser New Tab Extension](https://github.com/sachicodex/tably)**
 
 </div>
 
