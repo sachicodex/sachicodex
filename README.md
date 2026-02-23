@@ -85,9 +85,10 @@ A clean and powerful platform designed for streamlined event creation and manage
 
 A modern and customizable new tab extension designed to enhance productivity on web browsers.
 
-- ⚡ Lightweight with ultra-fast startup  
-- 🧩 Custom widgets (clock, notes, quick links)  
 - 🌑 Clean, minimal user interface  
+- ⚡ Lightweight with ultra-fast startup
+- 🔒 Lock your browser for privacy
+- 🧩 Turn widgets on or off
 - 🎯 Productivity-focused layout  
 - 🔧 Fully customizable tab experience  
 
