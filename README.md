@@ -64,6 +64,21 @@ An intelligent event management application integrated with Google Calendar.
 
 <div align="left">
 
+## 🔹 **[Sendix - Intelligent File Sharing Platform](https://github.com/sachicodex/sendix)**
+
+</div>
+
+A modern and efficient file transfer system built for speed, simplicity, and secure cross-device communication.
+
+- ⚡ Ultra-fast file transmission engine
+- 🔗 Smart link-based and instant sharing system
+- 📱 Seamless cross-platform experience
+- 🖥 Cross-platform support (Windows & Android)  
+
+---
+
+<div align="left">
+
 ## 🔹 **[NUVEX Event - Modern Event Creation Platform](https://github.com/sachicodex/nuvex-event)**
 
 </div>
