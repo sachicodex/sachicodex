@@ -1,6 +1,6 @@
  <div align="center">
 
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Right icon" /> SACHINTHA LAKSHAN <img src="https://raw.githubusercontent.com/sachicodex/Agenix/refs/heads/main/assets/img/verify.png" width="24" alt="Waving hand" /></h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Right icon" /> SACHINTHA LAKSHAN <img src="https://raw.githubusercontent.com/sachicodex/Agenix/refs/heads/main/assets/img/verify.png" width="24"/></h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1200&color=F97015&center=true&vCenter=true&width=900&lines=Flutter+Developer;Web+Developer;UI%2FUX+Designer;" alt="Typing SVG" width='80%'/><br>
 
